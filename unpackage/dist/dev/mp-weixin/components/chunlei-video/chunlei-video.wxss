@@ -1,0 +1,69 @@
+
+.video.data-v-0a37d4f6{
+	width: 750rpx;
+}
+.top.data-v-0a37d4f6{
+	position: absolute;
+	top:0;
+	background-image: -webkit-linear-gradient(bottom , rgba(0,0,0,0) , rgba(0,0,0,0.7));
+	background-image: linear-gradient(to top , rgba(0,0,0,0) , rgba(0,0,0,0.7));
+	width: 750rpx;
+	height: 300rpx;
+}
+.bottom.data-v-0a37d4f6{
+	position: absolute;
+	bottom: 0;
+	background-image: -webkit-linear-gradient(bottom , rgba(0,0,0,0.7) , rgba(0,0,0,0));
+	background-image: linear-gradient(to top , rgba(0,0,0,0.7) , rgba(0,0,0,0));
+	width: 750rpx;
+	height: 300rpx;
+}
+.progressBar.data-v-0a37d4f6{
+	border-radius: 2rpx;
+	height: 4rpx;
+	background-color: #FFFFFF;
+	z-index: 999999;
+	position: absolute;
+	bottom: 40rpx;
+	
+	-webkit-animation: flicker-data-v-0a37d4f6 4s linear infinite;
+	        animation: flicker-data-v-0a37d4f6 4s linear infinite;
+	-webkit-animation-direction:alternate;
+	        animation-direction:alternate;
+	
+}
+
+
+@-webkit-keyframes flicker-data-v-0a37d4f6 {
+0% { box-shadow:0 0 0 #FFFFFF;
+}
+     /** 暂停效果 */
+10% { box-shadow:0 0 2rpx #FFFFFF;
+}
+50% { box-shadow:0 0 10rpx #FFFFFF;
+}
+60% { box-shadow:0 0 12rpx #FFFFFF;
+}
+90% { box-shadow:0 0 18rpx #FFFFFF;
+}
+100% { box-shadow:0 0 20rpx #FFFFFF;
+}
+}
+@keyframes flicker-data-v-0a37d4f6 {
+0% { box-shadow:0 0 0 #FFFFFF;
+}
+     /** 暂停效果 */
+10% { box-shadow:0 0 2rpx #FFFFFF;
+}
+50% { box-shadow:0 0 10rpx #FFFFFF;
+}
+60% { box-shadow:0 0 12rpx #FFFFFF;
+}
+90% { box-shadow:0 0 18rpx #FFFFFF;
+}
+100% { box-shadow:0 0 20rpx #FFFFFF;
+}
+}
+
+
+

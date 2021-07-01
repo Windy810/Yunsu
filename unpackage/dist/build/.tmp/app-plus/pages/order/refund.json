@@ -1,0 +1,16 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "订单售后",
+  "pullToRefresh": {
+    "support": true,
+    "color": "#9bc25b",
+    "style": "default"
+  },
+  "bounce": "none",
+  "usingComponents": {
+    "rf-count-down": "/components/rf-count-down/rf-count-down",
+    "rf-load-more": "/components/rf-load-more/rf-load-more",
+    "rf-loading": "/components/rf-loading/rf-loading",
+    "empty": "/components/empty"
+  }
+}

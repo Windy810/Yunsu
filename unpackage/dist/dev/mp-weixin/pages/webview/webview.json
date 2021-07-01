@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的农场",
+  "navigationBarBackgroundColor": "rgb(147, 202, 118)",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "loading": "/components/xuan-loading/xuan-loading"
+  }
+}

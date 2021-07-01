@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "母婴小工具",
+  "disableScroll": true,
+  "navigationBarBackgroundColor": "rgb(147, 202, 118)",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "refresh": "/components/refresh",
+    "nav-tab": "/components/navTab",
+    "click-circle": "/components/clickCircle",
+    "tab-bar4": "/components/tabBar4"
+  }
+}

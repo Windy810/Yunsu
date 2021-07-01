@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "开票历史",
+  "usingComponents": {
+    "rf-load-more": "/components/rf-load-more/rf-load-more",
+    "rf-loading": "/components/rf-loading/rf-loading",
+    "empty": "/components/empty"
+  }
+}

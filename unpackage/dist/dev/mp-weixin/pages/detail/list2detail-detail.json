@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "农场详情",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#9bc25b",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "yy-video-player": "/components/yy-video-player/yy-video-player",
+    "rf-badge": "/components/rf-badge/rf-badge",
+    "yn-gallery": "/components/YnComponents/ynGallery/ynGallery"
+  }
+}

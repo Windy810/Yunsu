@@ -1,0 +1,1 @@
+<view><loading class="vue-ref" vue-id="9b069568-1" custom="{{false}}" shadeClick="{{true}}" type="{{1}}" data-ref="loading" data-event-opts="{{[['^callback',[['callback']]]]}}" bind:callback="__e" bind:__l="__l"></loading><web-view src="{{url}}"></web-view></view>

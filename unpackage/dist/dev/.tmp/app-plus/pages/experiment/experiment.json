@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "实验室帮扶农户进度",
+  "navigationBarBackgroundColor": "#90b555",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}

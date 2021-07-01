@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "探秘喜爱农场",
+  "navigationBarBackgroundColor": "#9bc25b",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "card-box": "/pages/tantan/card-box"
+  }
+}

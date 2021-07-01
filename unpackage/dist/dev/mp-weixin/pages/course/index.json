@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "云课程",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "chunlei-video": "/components/chunlei-video/chunlei-video"
+  }
+}

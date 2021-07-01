@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "rf-loading": "/components/rf-loading/rf-loading"
+  }
+}

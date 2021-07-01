@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/*view{*/
+/*	display: flex;*/
+/*	flex-wrap: wrap;*/
+/*}*/
+page.data-v-1742b7f2 {
+  background-color: #fff;
+}
+.wrapper.data-v-1742b7f2 {
+  width: 100%;
+  margin-top: 10rpx;
+}
+.wrapper .load-more.data-v-1742b7f2 {
+    width: 100%;
+    text-align: center;
+}
+.wrapper .list.data-v-1742b7f2 {
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    padding: 20rpx 36rpx;
+    background: #fff;
+    position: relative;
+}
+.wrapper .list .wrapper.data-v-1742b7f2 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+              flex: 1;
+}
+.wrapper .list .wrapper .address-box.data-v-1742b7f2 {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+        font-size: 28rpx;
+        color: #303133;
+}
+.wrapper .list .wrapper .u-box.data-v-1742b7f2 {
+        color: #909399;
+        font-size: 24rpx;
+}
+.wrapper .list .change-num.data-v-1742b7f2 {
+      font-size: 36rpx;
+      color: #606266;
+      font-weight: lighter;
+}
+.wrapper .list .change-num-add.data-v-1742b7f2 {
+      color: #16ac57;
+}
+.wrapper .list .change-num-reduce.data-v-1742b7f2 {
+      color: #fc4141;
+}
+

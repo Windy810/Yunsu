@@ -1,0 +1,13 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "意见反馈",
+  "pullToRefresh": {
+    "support": true,
+    "color": "#9bc25b",
+    "style": "default"
+  },
+  "usingComponents": {
+    "rf-load-more": "/components/rf-load-more/rf-load-more",
+    "empty": "/components/empty"
+  }
+}

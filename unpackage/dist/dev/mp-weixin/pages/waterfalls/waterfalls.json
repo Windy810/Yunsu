@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "实验室项目",
+  "navigationBarBackgroundColor": "#9bc25b",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}
